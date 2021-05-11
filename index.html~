@@ -1,0 +1,201 @@
+<HTML>
+<HEAD><TITLE>Jack Lutz</TITLE>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<META NAME="DESCRIPTION" Content="Jack H. Lutz">
+<META NAME="KEYWORDS"
+Content="dimension, complexity, randomness, computational, kolmogorov, measure, theory,
+computational complexity, kolmogorov complexity, effective dimension, fractal,
+iowa, state, university, ISU, iowa state university">
+<style>
+.emailfont {
+	FONT-SIZE: 11pt; FONT-STYLE: normal; FONT-FAMILY: Arial
+}
+.picture {  border: #6699CC; border-style: dotted; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+</style>
+</HEAD>
+<BODY lang=EN-US vLink=#003366 link=#003366 background="Image4.gif" alink="#003366">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" height="0">
+  <tr> 
+    <td valign="top" height="0" colspan="2"> 
+      <table width="100%" height="0" border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top"> 
+          <td height="217"> 
+            <h1>Jack Lutz</h1>
+            <h3 align="left">Professor of <a href="http://www.cs.iastate.edu/">Computer 
+              Science</a> <br>
+              Professor of <a href="http://www.math.iastate.edu/">Mathematics</a> <br> 
+	      Director, <a href="http://www.cs.iastate.edu/%7Elamp">Laboratory for Molecular Programming (LAMP)</a><br>
+              Faculty member, <a href="http://www.bcb.iastate.edu/">Bioinformatics
+              and Computational Biology</a> <br>
+            <a href="http://www.iastate.edu/">Iowa State University</a> <br>
+            Ames, IA 50011<br>
+            U.S.A.<br>
+              <br>
+            Ph.D., California Institute of Technology, 1987</h3>
+            </td>
+        </tr>
+        <tr valign="top"> 
+          <td width="300" height="0"> 
+            <table width="90%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="60"> <b>Phone:</b></td>
+                <td height="10"> <b>+1-515-294-9941</b></td>
+              </tr>
+              <tr> 
+                <td width="60"> <b>Fax:</b></td>
+                <td height="10"> <b>+1-515-294-0258</b></td>
+              </tr>
+              <tr> 
+                <td width="60"><b>E-mail:</b></td>
+                <td height="10"> <b>
+                  <script language="JavaScript">
+var commentss = "this piece of code is pirated from Lance Fortnow's webpage";
+var user = "lu" + "tz";
+var domain = "cs.iastate.edu";
+var email = user + "@" + domain;
+document.write("<a href=mailto:"+email+">");
+document.write("<span class=\"emailfont\">");
+document.write(email);
+document.write("</span>");
+document.write("</a>");
+</script>
+                  </b> </td>
+              </tr>
+              <tr> 
+                <td width="60"> <b>Office:</b></td>
+                <td height="2"> <b>104 <a href="http://www.cs.iastate.edu/jva/jva-archive.shtml">Atanasoff</a> 
+                  Hall</b></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top" align="right" height="0" width="0"><img height="300" border="1" src="JackLutz.jpg"  alt="Jack Lutz" class="picture"></td>
+  </tr>
+</table>
+<hr>
+<ul style="font-size:13pt;">
+
+<br>
+  <li>
+Research:<br>
+<span style="font-size:12pt;">
+    <a href="http://www.cs.iastate.edu/%7Elamp">Molecular Programming and DNA Nanotechnology</a><br>
+    <a href="randomness.html">Algorithmic Information and Randomness</a><br>
+    <a href="complexity.html">Computational Complexity</a><br> 
+</span>
+</li>
+<li>
+<a href="research-recent-contributions.html">Recent research contributions</a>
+</li>
+<li>
+<A href="papers.html">Publications</A>
+</li>
+<li>
+<A href="students.html">Graduate students</A>
+</li>
+<li>
+<a href="http://web.cs.iastate.edu/~lutz/short-cv.pdf">Short CV</a>
+</li>
+<li>
+<a href="">International Conference on Computability, Complexity, and Randomness (CCR 2022, Kochel, Germany)</a>
+</li>
+<li>
+<a href="https://www.newton.ac.uk/event/sasw09">International Conference on Computability, Complexity, and Randomness (CCR 2021, Isaac Newton Institute, Cambridge)</a>
+</li>
+<li>
+<a href="https://aimath.org/workshops/upcoming/algorandom/">Algorithmic Randomness</a>, <a href="https://aimath.org/">American Institute of Mathematics (AIM) 2020</a>
+</li>
+<li>
+<a href="http://dna26.iopconfs.org/home">International Conference on DNA Computing and Molecular Programming (DNA26, 2020)</a>
+</li>
+<li>
+<a href="http://cca-net.de/cca2020/">International Conference on Computability and Complexity in Analysis (CCA 2020)</a>
+</li>
+<li>
+<a href="https://stacs2020.sciencesconf.org/">Symposium on Theoretical Aspects of Computer Science (STACS 2020)</a>
+</li>
+<li><a href="http://www.math.caltech.edu/~logic/">Caltech Logic Seminar 2020</a>
+</li>
+<li>
+<a href="https://www.lps.uci.edu/newsevents/events/colloquia.php">UC-Irvine Logic and Philosophy of Science Colloquium 2020</a>  
+</li>  
+<li>
+<a href="https://www.ams.org/home/page">AMS</a>-<a href="http://aslonline.org/">ASL</a> <a href="http://jointmathematicsmeetings.org/meetings/national/jmm2020/2245_program_ss77.html#title">Special Session: Logic Facing Outward</a> (<a href="http://jointmathematicsmeetings.org/meetings/national/jmm2020/2245_intro">JMM 2020</a>)
+</li>
+<li>
+<a href="https://people.clas.ufl.edu/ethanmccarthy/logic-seminar/">University of Florida Logic Seminar 2019</a>
+</li>
+<li>
+<a href="https://talks.cs.umd.edu/talks/2448">Capital Area Theory Seminar 2019</a>
+</li>
+<li>
+<a href="https://allerton.csl.illinois.edu/">Allerton Conference on Communication, Control, and Computing (Allerton 2019)</a>
+</li>
+<li>
+<a href="https://www.fmf.uni-lj.si/~simpson/ccc2019">Computability, Continuity, Constructivity - from Logic to Algorithms (workshop CCC 2019)</a>
+</li>
+<li>
+<a href="https://conf.researchr.org/home/icse-2019">International Conference on Software Engineering (ICSE 2019)</a>
+</li>
+<li>
+<a href="https://asl2019.commons.gc.cuny.edu">ASL North American Annual Meeting 2019</a>
+</li>
+<li>
+<a href="http://ims.nus.edu.sg/events/2019/equi/index.php">Equidistribution: Arithmetic, Computational and Probabilistic Aspects (NUS IMS 2019)</a>
+</li>
+<li>
+  <a href="https://www.ams.org/home/page">AMS</a>-<a href="https://www.aslonline.org">ASL</a> <a href="http://jointmathematicsmeetings.org/meetings/national/jmm2019/2217_program_ss37.html#title">Special Session: Algorithmic Dimensions and Fractal Geometry</a> (<a href="http://jointmathematicsmeetings.org/meetings/national/jmm2019/2217_intro">JMM 2019</a>)
+</li>
+<li>
+<a href="http://www.mat-unab.cl/~ccr2018/">International Conference on Computability, Complexity, and Randomness (CCR 2018)</a>
+</li>
+<li>
+<a href="http://www.re18.org/">Requirements Engineering Conference (RE 2018)</a>
+</li>
+<li>
+<a href="http://cca-net.de/cca2018/">International Conference on Computability and Complexity in Analysis (CCA 2018)</a>
+</li>
+<li>
+<a href="https://cta-waterloo.sciencesconf.org/resource/page/id/4">Computability Theory and its Applications (Fields Institute 2018)</a>
+</li>
+<li>
+<a href="http://wiu.edu/cas/math/asl-conference-2018/index.php">ASL North American Annual Meeting 2018</a>
+</li>
+<li>
+<a href="https://www.mfo.de/occasion/1802/www_view">Computability Theory (Oberwolfach 2018)</a>
+</li>
+<li>
+<a href="http://ccc2017.loria.fr/">Continuity, Computability, Constructivity - From Logic to Algorithms (workshop CCC 2017)</a>
+</li>
+<li>
+<a href="https://ucnc2017.csce.uark.edu/">International Conference on Unconventional Computation and Natural Computation (UCNC 2017)</a>
+</li>
+<li>
+<a href="http://math.uchicago.edu/~drh/mcs/Jointseminar.html">Midwest Computability Seminar 2017</a>
+</li>
+<li>
+<a href="https://stacs2017.thi.uni-hannover.de/">International Symposium on Theoretical Aspects of Computer Science (STACS 2017)</a>
+</li>
+<li>
+<a href="http://www.math.ucla.edu/~ineeman/colloquium.php">UCLA Logic Colloquium 2017</a>
+</li>
+<li>
+<a href="http://sms.victoria.ac.nz/Events/NZMRI2017/WebHome">Mathematical Logic and Computability (NZMRI Summer School 2017)</a>
+</li>
+
+
+</ul>
+
+<hr>
+
+
+</BODY>
+
+</HTML>
+
+
+
+
+

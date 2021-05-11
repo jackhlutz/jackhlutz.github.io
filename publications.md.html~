@@ -1,0 +1,200 @@
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<META NAME="DESCRIPTION" Content="Jack H. Lutz">
+<META NAME="KEYWORDS"
+Content="dimension, complexity, randomness, computational, kolmogorov, measure, theory,
+computational complexity, kolmogorov complexity, effective dimension, fractal,
+iowa, state, university, ISU, iowa state university">
+
+
+**Publications**
+
+(#) Recent Survey Papers
+
+* Jack H. Lutz and Elvira Mayordomo, [Algorithmic fractal dimensions in geometric measure theory](https://arxiv.org/abs/2007.14346), in Vasco Brattka and Peter Hertling (eds.), *Handbook of Computability and Complexity in Analysis*, Springer, 2021, to appear.
+  
+* Jack H. Lutz and Neil Lutz, [Who asked *us*?  How the theory of computing answers questions about analysis](https://arxiv.org/abs/1912.00284), Ding-Zhu Du and Jie Wang (eds.), *Complexity and Approximation: In Memory of Ker-I Ko*, pp. 48-56, Springer, 2020.
+
+
+(#) Research Papers
+
+* Jack H. Lutz and Giora Slutzki, [Nonregularity via ordinal extensions](https://arxiv.org/abs/2001.08846), submitted.
+
+* Jack H. Lutz and Neil Lutz, [Algorithmically optimal outer measures](https://arxiv.org/abs/2006.08468), submitted.
+
+* Jack H. Lutz, Neil Lutz, and Elvira Mayordomo, [Extending the reach of the point-to-set principle](https://arxiv.org/abs/2004.07798), submitted.
+
+* Jack H. Lutz and Elvira Mayordomo, [Computing absolutely normal numbers in nearly linear time](https://arxiv.org/abs/1611.05911), submitted.
+
+* James I. Lathrop, Jack H. Lutz, Robyn R. Lutz, Hugh D. Potter, and Matthew R. Riley, [Population-induced phase transitions and the verification of chemical reaction networks](https://arxiv.org/abs/1909.05390), *Proceedings of the Twenty-sixth International Conference on DNA Computing and Molecular Programming* (DNA 2020, University of Oxford-virtual, Oxford, UK, September 14-17, 2020), Schloss Dagstuhl LZI, 2020, pp. 5:1-5:17. 
+
+* Titus H. Klinge, James I. Lathrop, and Jack H. Lutz, [Robust biomolecular finite automata](https://arxiv.org/abs/1505.03931), *Theoretical Computer Science* **816** (2020), pp. 114-143. 
+
+* Xiang Huang, Jack H. Lutz, Elvira Mayordomo, and Donald M. Stull, [Asymptotic divergences and strong dichotomy](https://arxiv.org/abs/1910.13615), *Proceedings of the Thirty-seventh Symposium on Theoretical Aspects of Computer Science* (STACS 2020, Montpellier, France, March 10-13, 2020), Schloss Dagstuhl LZI, 2020, pp. 51:1-51:15.
+
+* Xiang Huang, Jack H. Lutz, and Andrei N. Migunov, [Algorithmic randomness in continuous-time Markov chains](https://arxiv.org/abs/1910.13620), *Proceedings of the Fifty-seventh Annual Allerton Conference on Communication, Control, and Computing* (Allerton 2019, Monticello, IL, September 24-27, 2019), pp. 615-622.
+
+* Jack H. Lutz, Neil Lutz, Robyn R. Lutz, and Matthew R. Riley, [Robustness and games against nature in molecular programming](https://arxiv.org/abs/1902.06171), *Proceedings of the IEEE/ACM Forty-first International Conference on Software Engineering: New Ideas and Emerging Results* (ICSE-NIER 2019, Montreal, Canada, May 25-31, 2019), pp. 65-68.    
+
+* Samuel J. Ellis, Titus H. Klinge, James I. Lathrop, Jack H. Lutz, Robyn R. Lutz, Andrew S. Miner, and Hugh D. Potter, [Runtime fault detection in programmed molecular systems](https://arxiv.org/abs/1710.09494), *ACM Transactions on Software Engineering and Methodology* **28** (2019), Article 6 (20 pages).
+
+* Xiang Huang, Titus H. Klinge, James I. Lathrop, Xiaoyuan Li, and Jack H. Lutz, [Real-time computability of real numbers by chemical reaction networks](http://arxiv.org/abs/1803.10267), *Natural Computing* **18** (2019), pp. 63-73.
+  
+* Jack H. Lutz and Neil Lutz, [Algorithmic information, plane Kakeya sets, and conditional dimension](https://arxiv.org/abs/1511.00442), *ACM Transactions on Computation Theory* **10** (2018), article 7 (22 pages).
+
+* Adam Case, Jack H. Lutz, and D. M. Stull, [Reachability problems for continuous chemical reaction networks](https://arxiv.org/abs/1508.04125), *Natural Computing* **17** (2018), pp. 223-230.
+
+* Adam Case and Jack H. Lutz, [Mutual dimension and random sequences](https://arxiv.org/abs/1603.09390), *Theoretical Computer Science* **731** (2018), pp. 68-87.
+
+* Jack H. Lutz and Neil Lutz, [Lines missing every random point](https://arxiv.org/abs/1401.3063), *Computability* **4** (2015), pp. 85-102.
+
+* Adam Case and Jack H. Lutz, [Mutual dimension](https://arxiv.org/abs/1410.4135), *ACM Transactions on Computation Theory* **7** (2015), article 12 (26 pages).
+
+* Xiaoyang Gu, Jack H. Lutz, Elvira Mayordomo, and Philippe Moser, [Dimension spectra of random subfractals of self-similar fractals](=PAPERS/dsrsssf.pdf), *Annals of Pure and Applied Logic* **165** (2014), pp. 1707-1726.
+
+* Randall Dougherty, Jack H. Lutz, R. Daniel Mauldin, and Jason Teutsch, [Translating the Cantor set by a random real](=PAPERS/C+r.pdf), *Transactions of the American Mathematical Society* **366** (2014), pp. 3027-3041.
+
+* Jack H. Lutz, [The frequent paucity of trivial strings](=PAPERS/fpts.pdf),  *Information Processing Letters* **114** (2014), pp. 643-645.
+
+* David S. Doty, Jack H. Lutz, Matthew J. Patitz, Robert T. Schweller, Scott M. Summers, and Damien  Woods, [The tile assembly model is intrinsically universal](=PAPERS/tamiu.pdf),  *Proceedings of the Fifty-third Annual IEEE Symposium on Foundations of Computer Science*  (FOCS 2012, New Brunswick, NJ, October 20-23, 2012), pp. 302-310.
+
+* Robyn R. Lutz, Jack H. Lutz, James I. Lathrop, Titus H. Klinge, Divita Mathur, D. M. Stull, Taylor G. Bergquist, and Eric R. Henderson, [Requirements analysis for a product family of DNA nanodevices](=PAPERS/rapfdn.pdf), *Proceedings of  the Twentieth IEEE International Requirements Engineering Conference* (RE 2012,  Chicago, IL, September 24-28, 2012), pp. 211-220.
+
+* Jack H. Lutz and Brad Shutters, [Approximate self-assembly of the Sierpinski triangle](=PAPERS/asast.pdf), *Theory of Computing Systems* **51** (2012), pp. 372-400.
+
+* Lance Fortnow, Jack H. Lutz, and Elvira Mayordomo, [Inseparability and strong hypotheses for disjoint NP pairs](=PAPERS/ishdnpp.pdf), *Theory of Computing Systems* **51** (2012), pp. 229-247.
+
+* Robyn Lutz, Jack Lutz, James Lathrop, Titus Klinge, Eric Henderson, Divita Mathur, and Dalia Abo Sheasha, [Engineering and verifying requirements for programmable self-assembling nanomachines](=PAPERS/evrspn.pdf), *Proceedings of the Thirty-Fourth International Conference on Software Engineering* (ICSE 2012, Zurich, Switzerland, June 2-9, 2012), pp. 1361-1364.
+
+* Xiaoyang Gu and Jack H. Lutz, [Effective dimensions and relative frequencies](=PAPERS/edrf.pdf), *Theoretical Computer Science* **412** (2011), pp. 6696-6711.
+
+* Xiaoyang Gu, Jack H. Lutz, and Elvira Mayordomo, [Curves that must be retraced](=PAPERS/cmr.pdf), *Information and Computation* **209** (2011), pp. 992-1006. 
+
+* Xiaoyang Gu, Jack H. Lutz, Satyadev Nandakumar, and James S. Royer, [Axiomatizing resource bounds for measure](=PAPERS/arbm.pdf),  *Models of Computation in Context: Proceedings of the Seventh Conference on Computability in Europe* (CiE 2011, Sofia, Bulgaria, June 27-July 2,  2011), Springer, 2011, pp. 102-111.
+
+* James I. Lathrop, Jack H. Lutz, and Brian Patterson, [Multi-resolution cellular automata for real computation](=PAPERS/mrca.pdf), *Models of Computation in Context: Proceedings of the Seventh Conference on Computability in Europe* (CiE 2011, Sofia, Bulgaria, June 27-July 2, 2011), Springer, 2011, pp. 181-190.
+
+* James I. Lathrop, Jack H. Lutz, Matthew J. Patitz, and Scott M. Summers, [Computability and complexity in self-assembly](=PAPERS/ccsa.pdf), *Theory of Computing Systems* **48** (2011), pp. 617-647.
+
+* Jack H. Lutz, [A divergence formula for randomness and dimension](=PAPERS/dfrd.pdf), *Theoretical Computer Science* **412** (2011), pp. 166-177.
+
+* David S. Doty, Jack H. Lutz, Matthew J. Patitz, Scott M. Summers, and Damien Woods, [Intrinsic universality in self-assembly](=PAPERS/iusa.pdf), *Proceedings of the Twenty-Seventh International Symposium on Theoretical Aspects of Computer Science* (STACS 2010, Nancy, France, March 4-6, 2010), pp. 275-286.
+
+* David S. Doty, Jack H. Lutz, Matthew J. Patitz, Scott M. Summers, and Damien Woods, [Random number selection in self-assembly](=PAPERS/rnssa.pdf), *Proceedings of the Eighth International Conference on Unconventional Computation* (UC 2009, Ponta Delgada, Portugal, September 7-11, 2009), Springer, pp. 143-157.
+
+* James I. Lathrop, Jack H. Lutz, and Scott M. Summers, [Strict self-assembly of discrete Sierpinski triangles](=PAPERS/ssadst.pdf), *Theoretical Computer Science*, **410** (2009), pp. 384-405.
+
+* Xiaoyang Gu and Jack H. Lutz, [Dimension characterizations of complexity classes](=PAPERS/dccc.pdf), *Computational Complexity* **17** (2008), pp. 459-474.
+
+* Jack H. Lutz and Elvira Mayordomo, [Dimensions of points in self-similar fractals](=PAPERS/dpssf.pdf), *SIAM Journal on Computing*, **38** (2008), pp. 1080-1112.
+
+* Jack H. Lutz and Klaus Weihrauch, [Connectivity properties of dimension level sets](=PAPERS/cpdls.pdf), *Mathematical Logic Quarterly*, **54** (2008), pp. 483-491. 
+
+* Xiaoyang Gu, Jack H. Lutz, and Elvira Mayordomo, [Points on computable curves](https://arxiv.org/abs/cs/0512042), *Proceedings of the Forty-Seventh Annual IEEE Symposium on Foundations  of Computer Science* (FOCS 2006, Berkeley, CA, October 22-24, 2006), IEEE Computer Society Press, 2006, pp. 469-474.
+
+* David Doty, Jack H. Lutz, and Satyadev Nandakumar, [Finite-state dimension and real arithmetic](=PAPERS/fsdra.pdf), *Information and Computation* **205** (2007), pp. 1640-1651.
+
+* Xiaoyang Gu, Jack H. Lutz, and Philippe Moser, [Dimensions of Copeland-Erd&ouml;s sequences](=PAPERS/dces.pdf), *Information and Computation* **205** (2007), pp. 1317-1333.
+
+* Krishna B. Athreya, John M. Hitchcock, Jack H. Lutz, and Elvira Mayordomo, [Effective strong dimension in algorithmic information and computational complexity](=PAPERS/esdaicc.pdf), *SIAM Journal on Computing* **37** (2007), pp. 671-705.
+
+* John M. Hitchcock, Jack H. Lutz, and Sebastiaan A. Terwijn, [The arithmetical complexity of dimension and randomness](=PAPERS/acdr.pdf), *ACM Transactions on Computational Logic* **8** (2007), article no. 13.
+
+* Dave Doty, Xiaoyang Gu, Jack H. Lutz, Elvira Mayordomo, and Philippe Moser, [Zeta-dimension](https://arxiv.org/abs/cs/0503052), *Proceedings of the Thirtieth International Symposium on Mathematical Foundations of Computer Science* (MFCS 2005, Gdansk, Poland, August 29 - September 2, 2005), Springer-Verlag, 2005, pp. 283-294.
+
+* John M. Hitchcock and Jack H. Lutz, [Why computational complexity requires stricter martingales](=PAPERS/wccrsm.pdf), *Theory of Computing Systems* **39** (2006), pp. 277-296.
+
+* Lance Fortnow and Jack H. Lutz, [Prediction and dimension](=PAPERS/pd.pdf), *Journal of Computer and System Sciences* **70** (2005), pp. 570-589.
+
+* Stephen A. Fenner, Jack H. Lutz, Elvira Mayordomo, and Patrick Reardon, [Weakly useful sequences](=PAPERS/wus.pdf), *Information and Computation* **197** (2005), pp. 41-54.<br><br>
+
+* Jack H. Lutz, [Computability versus exact computability of martingales](=PAPERS/cecm.pdf), *Information Processing Letters* **92** (2004), pp. 235-237.
+
+* John M. Hitchcock, Jack H. Lutz, and Elvira Mayordomo, [Scaled dimension and nonuniform complexity](=PAPERS/sdnc.pdf), *Journal of Computer and System Sciences* **69** (2004), pp. 97-122.
+
+* Jack J. Dai, James I. Lathrop, Jack H. Lutz, and Elvira Mayordomo, [Finite-state dimension](=PAPERS/fsd.pdf), *Theoretical Computer Science* **310** (2004), pp. 1-33.
+
+* Josef M. Breutzmann, David W. Juedes, and Jack H. Lutz, [Baire category and nowhere differentiability for feasible real functions](=PAPERS/bcndfrf.ps), *Mathematical Logic Quarterly* **50** (2004), pp. 460-472.
+
+* Jack H. Lutz, [The dimensions of individual strings and sequences](=PAPERS/diss.pdf), *Information and Computation* **187** (2003), pp. 49-79.
+
+* Jack H. Lutz, [Dimension in complexity classes](=PAPERS/dcc.pdf), *SIAM Journal on Computing* **32** (2003), pp. 1236-1259.
+ 
+* Jack H. Lutz, Gales and the constructive dimension of individual sequences, *Proceedings of the Twenty-Seventh International Colloquium on Automata, Languages, and Programming* (ICALP 2000, Geneva, Switzerland, July 9-15, 2000), Springer-Verlag, 2000, pp. 902-913.
+
+* Jack H. Lutz, Vikram Mhetre, and Sridhar Srinivasan, [Hard instances of hard problems](=PAPERS/hihp.pdf), *Proceedings of the Seventeenth Symposium on Theoretical Aspects of Computer Science* (STACS 2000, Lille, France, February 17-19, 2000), Springer-Verlag, 2000, pp. 324-333.
+
+* Jack H. Lutz and Martin Strauss, [Bias invariance of small upper spans](=PAPERS/bisus.pdf), *Proceedings of the Seventeenth Symposium on Theoretical Aspects of Computer Science* (STACS 2000, Lille, France, February 17-19, 2000), Springer-Verlag, 2000, pp. 74-86.
+
+* Jack J. Dai and Jack H. Lutz, [Query order and NP-completeness](=PAPERS/qonpc.pdf), *Proceedings of the Fourteenth Annual IEEE Conference on  Computational Complexity* (CCC 1999, Atlanta, GA, May 4-6, 1999), IEEE Computer Society Press, 1999, pp. 142-148.
+
+* David W. Juedes and Jack H. Lutz, [Modeling time-bounded prefix Kolmogorov complexity](=PAPERS/mtbpkc.pdf), *Theory of Computing Systems* **33** (2000), pp. 111-123.
+
+* Jack H. Lutz, [Resource-bounded measure](https://arxiv.org/abs/1101.5455), *Proceedings of the Thirteenth Annual IEEE Conference on Computational Complexity* (CCC 1998, Buffalo, NY, June 15-18, 1998), IEEE Computer Society Press, 1998, pp. 236-248.
+
+* Jack H. Lutz and Yong Zhao, [The density of weakly complete problems under adaptive reductions](=PAPERS/dwcpar.pdf), *SIAM Journal on Computing* **30** (2000), pp. 1197-1210.
+
+* Josef M. Breutzmann and Jack H. Lutz, [Equivalence of measures of complexity classes](=PAPERS/emcc.pdf), *SIAM Journal on Computing* **29** (2000), pp. 302-326.
+
+* James I. Lathrop and Jack H. Lutz, [Recursive computational depth](=PAPERS/rcd.pdf), *Information and Computation* **153** (1999), pp. 139-172.
+
+* Jack H. Lutz and David L. Schweizer, [Feasible reductions to Kolmogorov-Loveland stochastic sequences](=PAPERS/frklss.pdf), *Theoretical Computer Science* **225** (1999), pp. 185-194.
+
+* Jack H. Lutz, [One-way functions and balanced NP](=PAPERS/owfbnp.pdf), manuscript.
+
+* Amy K. Lorentz and Jack H. Lutz, [Genericity and randomness over feasible probability measures](=PAPERS/grfpm.pdf), *Theoretical Computer Science* **207** (1998), pp. 245-259.
+
+* Jack H. Lutz, [Observations on measure and lowness for $\Delta_2^\textrm{P}$](=PAPERS/mld2.pdf), *Theory of Computing Systems*  **30** (1997), pp. 429-442.
+
+* Jack H. Lutz and Elvira Mayordomo, [Cook versus Karp/Levin: separating completeness notions if NP is not small](=PAPERS/cvkl.pdf), *Theoretical Computer Science* **164** (1996), pp. 141-163.
+
+* David W. Juedes and Jack H. Lutz, [Completeness and weak completeness under polynomial-size circuits](=PAPERS/cwcpsc.pdf), *Information and Computation* **125** (1996), pp. 13-31.
+
+* Jack H. Lutz, [Weakly hard problems](=PAPERS/whp.pdf), *SIAM Journal on Computing* **24** (1995), pp. 1170-1189.
+
+* Ronald V. Book, Jack H. Lutz and David M. Martin, Jr., [The global power of additional queries to random oracles](=PAPERS/gaq.ps), *Information and Computation* **120** (1995), pp. 49-54.
+
+* David W. Juedes and Jack H. Lutz, [Weak completeness in E and E<sub>2</sub>](=PAPERS/wce.pdf), *Theoretical Computer Science* **143** (1995), pp. 149-158.
+
+* David W. Juedes and Jack H. Lutz, [The complexity and distribution of hard problems](=PAPERS/cdhp.pdf), *SIAM Journal on Computing* **24** (1995), pp. 279-295.
+
+* Jack H. Lutz, [A small span theorem for P/Poly-Turing reductions](=PAPERS/sst.pdf), *Proceedings of the Tenth Annual Structure in Complexity Theory Conference* (CCC 1995, Minneapolis, MN, June 19-22, 1995), IEEE Computer Society Press, 1995, pp. 324-330.
+
+* David W. Juedes, James I. Lathrop, and Jack H. Lutz, [Computational depth and reducibility](=PAPERS/cdr.pdf), *Theoretical Computer Science* **132** (1994), pp. 37-70.
+
+* Jack H. Lutz and Elvira Mayordomo, [Measure, stochasticity, and the density of hard languages](=PAPERS/msdhl.pdf), *SIAM Journal on Computing* **23** (1994), pp. 762-779.
+
+* Ronald V. Book, Jack H. Lutz, and Klaus W. Wagner, [An observation on probability versus randomness with applications to complexity classes](=PAPERS/blw.pdf), *Mathematical Systems Theory* **27** (1994), pp. 201-209.
+
+* Jack H. Lutz, [A pseudorandom oracle characterization of BPP](=PAPERS/pocbpp.pdf), *SIAM Journal on Computing* **22** (1993), pp. 1075-1086.
+
+* Ronald V. Book and Jack H. Lutz, On languages with very high space-bounded Kolmogorov complexity, *SIAM Journal on Computing* **22** (1993), pp. 395-402.
+
+* Jack H. Lutz and William J. Schmidt, [Circuit size relative to pseudorandom oracles](=PAPERS/csrpo.pdf), *Theoretical Computer Science* **107** (1993), pp. 95-120.
+
+* David W. Juedes and Jack H. Lutz, [Kolmogorov complexity, complexity cores, and the distribution of hardness](=PAPERS/kcccdh.pdf), in O. Watanabe (ed.), *Kolmogorov Complexity and Computational  Complexity*, Springer-Verlag, 1992, pp. 43-65.
+
+* Jack H. Lutz, [Almost everywhere high nonuniform complexity](=PAPERS/aehnc.pdf), *Journal of Computer and System Sciences* **44** (1992), pp. 220-258.
+
+* Jack H. Lutz, [On independent random oracles](=PAPERS/niro.pdf), *Theoretical Computer Science*, **92** (1992), pp. 301-307.
+
+* Jack H. Lutz, [An upward measure separation theorem](=PAPERS/ums.pdf), *Theoretical Computer Science* **81** (1991), pp. 127-135.
+
+* Jack H. Lutz, Pseudorandom sources for BPP, *Journal of Computer and System Sciences* **41** (1990), pp. 307-320.
+
+* Jack H. Lutz, Category and measure in complexity classes, *SIAM Journal on Computing* **19** (1990), pp. 1100-1131.
+
+
+(#) Older Survey Papers
+
+* John M. Hitchcock, Jack H. Lutz, and Elvira Mayordomo, [The fractal geometry of complexity classes](=PAPERS/fgcc.pdf), in the Complexity Theory Column (L.A. Hemaspaandra, ed.), *SIGACT News* **36** (2005), pp. 24-38.
+
+* Jack H. Lutz, [Effective fractal dimensions](=PAPERS/efd.pdf) (invited lecture at the International Conference on Computability and Complexity in Analysis, Cincinnati, OH, August 28-30, 2003), *Mathematical Logic Quarterly* **51** (2005), pp. 62-72.
+
+* Jack H. Lutz and Elvira Mayordomo, [Twelve problems in resource-bounded measure](=PAPERS/tprbm-eatcs.pdf), in the Computational Complexity Column (E. Allender, ed.), *Bulletin of the European Association for Theoretical Computer Science* **68** (1999), pp. 64-80, and in G. Paun, G. Rozenberg, and A. Salomaa (eds.), *Current Trends in Theoretical Computer Science: Entering the 21st Century*, World Scientific, 2001, pp. 83-101.
+  * ***And then there were eight***: [Updates](twelve.html) on the status of these twelve problems.
+
+* Jack H. Lutz, [The quantitative structure of exponential time](=PAPERS/qset.pdf), in L. A. Hemaspaandra and A. L. Selman (eds.), *Complexity Theory                                                                                                                                                                                                                 Retrospective II*, Springer-Verlag, 1997, pp. 225-254.
+
+
+<!-- Markdeep: --><style class="fallback">body{visibility:hidden;white-space:pre;font-family:monospace}</style><script src="markdeep.min.js" charset="utf-8"></script><script src="https://morgan3d.github.io/markdeep/latest/markdeep.min.js?" charset="utf-8"></script><script>window.alreadyProcessedMarkdeep||(document.body.style.visibility="visible")</script>
+

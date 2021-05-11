@@ -1,0 +1,54 @@
+<HTML>
+<HEAD>
+<TITLE>Homepage of Jack Lutz</TITLE>
+</HEAD>
+
+<BODY LINK="#0000ff" VLINK="#800080" BACKGROUND="Image4.gif">
+<TABLE WIDTH="100%" BORDER=0 CELLPADDING="0%" CELLSPACING="5%" VALIGN=TOP>
+<TR>
+<TD colspan=2 VALIGN=TOP ALIGN=CENTER>
+<IMG SRC="JackLutz.jpg" WIDTH=207 HEIGHT=268></TD>
+<TD><H1>Jack Lutz</H1>
+<H3>
+Professor of <A HREF="http://www.cs.iastate.edu/">Computer Science</A><BR>
+<A HREF="http://www.iastate.edu/">Iowa State University</A><BR>
+Ames, IA 50011<BR>
+U.S.A.<BR>
+<BR>
+Ph.D., California Institute of Technology, 1987
+<BR>
+N.S.F. Presidential Young Investigator, 1991-1996
+<BR>
+Member of Conference Committee, <A HREF="http://www.cs.utep.edu/longpre/complexity.html">IEEE
+Conference on Computational Complexity, 2000-2002</A><BR>
+</H3>
+</TD>
+</TR>
+<TR>
+<TD><H3>Phone:</H3></TD>
+<TD><H3>+1-515-294-9941</H3></TD></TR>
+<TD><H3>Fax:</H3></TD>
+<TD><H3>+1-515-294-0258</H3></TD></TR>
+<TD><H3>E-mail:</H3></TD>
+<TD><H3><a href="mailto:lutz@cs.iastate.edu">
+lutz@cs.iastate.edu</H3></TD></TR>
+<TD><H3>Office:</H3></TD>
+<TD><H3>206 <a href="http://www.cs.iastate.edu/cgi-bin/hit-count?jva/jva-archive.html">Atanasoff</a> Hall</H3></TD></TR>
+</TABLE>
+
+<H3><IMG SRC="Image6.gif" WIDTH=572 HEIGHT=9></H3>
+<H2>
+<IMG SRC="MetallicOrb.gif" WIDTH=12 HEIGHT=12>
+Research interests:
+<a href= "https://www.fastlane.nsf.gov/servlet/showaward?award=9988483">
+  Measure and Information in Computational Complexity</A>
+<BR>
+<IMG SRC="MetallicOrb.gif" WIDTH=12 HEIGHT=12>
+ <A HREF="papers.html"> Publications</A>
+<BR>
+<IMG SRC="MetallicOrb.gif" WIDTH=12 HEIGHT=12>
+ <A HREF="students.html"> Graduate students</A>
+</H2>
+<P><IMG SRC="Image6.gif" WIDTH=572 HEIGHT=9></P></BODY>
+</HTML>
+

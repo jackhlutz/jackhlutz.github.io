@@ -1,0 +1,64 @@
+<HTML>
+<HEAD>
+<TITLE>Jack Lutz</TITLE>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<META NAME="DESCRIPTION" Content="Jack H. Lutz">
+<META NAME="KEYWORDS"
+Content="dimension, complexity, randomness, computational, 
+kolmogorov, measure, theory,
+computational complexity, kolmogorov complexity, 
+effective dimension, fractal, resource-bounded measure, resource bounded measure,
+iowa, state, university, ISU, iowa state university">
+<style>
+.emailfont {
+	FONT-SIZE: 11pt; FONT-STYLE: normal; FONT-FAMILY: Arial
+}
+.picture {  border: #6699CC; border-style: dotted; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+</style>
+</HEAD>
+<BODY lang=EN-US vLink=#003366 link=#003366 background="Image4.gif" alink="#003366">
+<h1 align="center">Algorithmic Information and Randomness</h1>
+Martin-L&ouml;f's 1966 discovery that the theory of computing &#151;
+and only the theory of computing &#151; provides a satisfactory definition of the
+randomness of individual binary sequences was an
+early and dramatic indicator of things to come.
+In addition to providing hardware and software tools, computer science
+has developed deep theoretical tools that are <i>conceptually</i>
+transforming the foundations of several areas of science. 
+Many of these tools, like randomness, arise from the growing
+unification
+of theoretical computer science with information theory.<br><br>
+I have recently been involved in the development of three
+types of effective fractal dimension outside of complexity theory:
+<ul>
+<li>
+Constructive dimension (2000)
+</li>
+<li>
+Finite-state dimension (2001, with Dai, Lathrop, and Mayordomo)
+</li>
+<li>
+Effective strong dimension (2003, with Athreya, Hitchcock, and Mayordomo)
+</li>
+</ul>
+The first of these refines randomness and gives a new
+characterization of Kolmogorov complexity. The second sheds new light
+on normal sequences and data compression. The third shows that
+packing dimension (an ostensibly deeper fractal dimension
+developed in 1982) is an exact dual of Hausdorff dimension with
+similarly useful effectivizations.
+<br><br>
+I am currently working with colleagues and students to extend these development<span class="aaaaa"></span>s, 
+with applications to fractal geometry, dynamical systems, prediction, game theory, and, yes, computational complexity. <br>
+<h2>Bibliographies</h2>
+<a href="http://www.cs.uwyo.edu/~jhitchco">John Hitchcock</a> maintains online bibliographies on <a href="http://www.cs.uwyo.edu/~jhitchco/bib/rbm.shtml">resource-bounded 
+measure</a> and <a href="http://www.cs.uwyo.edu/~jhitchco/bib/dim.shtml">effective 
+fractal dimensions</a>, with links to available papers in the latter. <br>
+</BODY>
+
+</HTML>
+
+
+
+
+

@@ -1,0 +1,132 @@
+<HTML>
+<HEAD>
+<TITLE>Jack Lutz</TITLE>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<META NAME="DESCRIPTION" Content="Jack H. Lutz">
+<META NAME="KEYWORDS"
+Content="dimension, complexity, randomness, computational, 
+kolmogorov, measure, theory,
+computational complexity, kolmogorov complexity, 
+effective dimension, fractal, resource-bounded measure, resource bounded measure,
+iowa, state, university, ISU, iowa state university">
+<style>
+.emailfont {
+	   FONT-SIZE: 11pt; FONT-STYLE: normal; FONT-FAMILY: Arial
+	   }
+	   .picture {  border: #6699CC; border-style: dotted; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+	   </style>
+	   </HEAD>
+	   <BODY lang=EN-US vLink=#003366 link=#003366 background="Image4.gif" alink="#003366">
+
+
+
+
+<center><h2>Selected Recent Research Contributions</h2></center>
+
+<li>
+(with Xiang Huang and Andrei Migunov) Development of the theory of algorithmic randomness for <i>individual</i> trajectories of stochastic chemical reaction networks and, more generally, continuous-time Markov chains. Submitted.  <a href="">arxiv</a>
+<br><br>
+</li>  
+
+<li>
+(with Xiang Huang, Elvira Mayordomo, and Don Stull) Use of asymptotic Kullback-Leibler divergences to <i>quantify</i> the exponential rates of winning and losing on the two sides of the 1972 Schnorr-Stimm dichotomy theorem for finite-state gamblers betting on normal and non-normal sequences. Submitted.  <a href="">arxiv</a>
+<br><br>
+</li>
+
+<li>
+(with Titus Klinge and Jim Lathrop) A uniform method for translating arbitrary nondeterministic finite automata into deterministic mass-action I/O chemical reaction networks that simulate them in real time with a number of chemical species that is linear in the size of the DFA.  Proof that this simulation is correct and robust to perturbations of both the environment and internal parameters of the I/O chemical reaction networks. Submitted.  <a href="https://arxiv.org/abs/1505.03931"> arxiv</a>
+<br><br>
+</li>
+
+<li>
+(with Elvira Mayordomo)  The first algorithm to compute absolutely normal numbers in nearly linear time.  Submitted.  <a href="https://arxiv.org/abs/1611.05911">arxiv</a>
+<br><br>
+</li>
+
+<li>
+(with Neil Lutz, Robyn Lutz, and Matthew Riley) Use of games against nature in stochastic chemical reaction networks to quantify robustness. ICSE 2019, to appear.  <a href="https://arxiv.org/abs/1902.06171">arxiv</a>
+<br><br>
+</li>
+  
+<li>
+(with Sam Ellis, Titus Klinge, Jim Lathrop, Robyn Lutz, and Andy Miner)  Design and verification of a runtime fault detector for programmed molecular nanosystems.  <i>ACM Transactions on Software Engineering and Methodology</i>, 2019, to appear.  <a href="https://arxiv.org/abs/1710.09494">arxiv</a>
+<br><br>
+</li>
+
+<li>
+(with Xiang Huang, Titus H. Klinge, James I. Lathrop, and Xiaoyuan Li)  Proof that all algebraic numbers and some transcendental numbers are real-time computable by deterministic chemical reaction networks.  <i>Natural Computing</i>, 2019.  <a href="https://arxiv.org/abs/1803.10267">arxiv</a>
+<br><br>
+</li>
+
+<li>
+(with Neil Lutz)  Development of conditional algorithmic fractal dimensions.  <i>ACM Transactions on Computation Theory</i>, 2018.  <a href="https://arxiv.org/abs/1511.00442">arxiv</a>
+<br><br>
+</li>
+
+<li>
+(with Neil Lutz)  Use of the point-to-set principle to give a new, information-theoretic proof that every plane Kakeya set (set containing a unit segment in every direction) has Hausdorff dimension 2, a theorem first proved by Davies in 1971.  <i>ACM Transactions on Computation Theory</i>, 2018.  <a href="https://arxiv.org/abs/1511.00442">arxiv</a>
+<br><br>
+</li>
+
+<li>
+  (with Neil Lutz)  A <i>point-to-set principle</i> that enables one to use the (relativized algorithmic) dimension of a <i>single point</i> in an arbitrary set <i>E</i> in Euclidean space to establish a lower bound on the (classical) Hausdorff dimension of <i>E</i>.  <i>ACM Transactions on Computation Theory</i>, 2018.  <a href="https://arxiv.org/abs/1511.00442">arxiv</a>
+<br><br>
+</li>
+
+<li>
+(with Adam Case and Don Stull)  Proof that reachability in the rate-independent continuous chemical reaction network model of Chen, Doty, and Soloveichik (2014) is computable in polynomial time.  <i>Natural Computing</i>, 2018.  <a href="https://arxiv.org/abs/1508.04125">arxiv</a>
+<br><br>
+</li>
+
+<li>
+(with Adam Case)  Quantitative analysis of the mutual algorithmic dimensions between correlated random sequences.  <i>Theoretical Computer Science</i>, 2018.  <a href="https://arxiv.org/abs/1603.09390">arxiv</a>
+<br><br>
+</li>
+
+<li>
+(with Neil Lutz)  Proof that, in every direction in Euclidean space, there is a line missing every random point.  <i>Computability</i>, 2015.  <a href="https://arxiv.org/abs/1401.3063">arxiv</a>
+<br><br>
+</li>
+
+<li>
+(with Adam Case)  Proof of the <i>data processing inequalities</i>, which state that applying a computable Lipschitz function to a point <i>x</i> in a Euclidean space cannot increase its mutual dimension with a point <i>y</i> in a Euclidean space.  <i>ACM Transactions on Computation Theory</i>, 2015.  <a href="https://arxiv.org/abs/1410.4135">arxiv</a>
+<br><br>
+</li>
+
+<li>
+(with Adam Case)  Development of the lower and upper <i>mutual (algorithmic) dimensions</i> between points in Euclidean spaces.  <i>ACM Transactions on Computation Theory</i>, 2015.  <a href="https://arxiv.org/abs/1410.4135">arxiv</a>
+<br><br>
+</li>
+
+<li>
+(with Randy Dougherty, Dan Mauldin, and Jason Teutsch)  Determination of the dimension spectra of translations of the Cantor middle thirds set by reals that are algorithmically random.  <i>Transactions of the American Mathematical Society</i>, 2014.  <a href="https://arxiv.org/abs/1205.4821">arxiv</a>
+<br><br>
+</li>
+
+<li>
+(with Xiaoyang Gu, Elvira Mayordomo, and Philippe Moser)  Determination of the dimension spectra of algorithmically random subfractals of self-similar fractals.  <i>Annals of Pure and Applied Logic</i>, 2014.  <a href=“http://web.cs.iastate.edu/~lutz/=PAPERS/dsrsssf.pdf”>pdf</a>
+<br><br>
+</li>
+
+<li>
+Use of the probabilistic method to give a <i>very</i> easy proof of a previously difficult theorem of Meyer (1969) and Chaitin (1976) on the paucity of strings with very low Kolmogorov complexity.  <i>Information Processing Letters</i>, 2014.  <a href="https://arxiv.org/abs/1310.6383">arxiv</a>
+<br><br>
+</li>
+
+<li>
+(with Dave Doty, Matt Patitz, Robbie Schweller, Scott Summers, and Damien Woods)  Proof that Winfree's abstract Tile Assembly Model of nanoscale self-assembly is <i>intrinsically universal</i>, meaning that there is a single tile assembly system <i>U</i> that can be initialized to <i>carry out</i> the self-assembly process of any tile assembly system <i>T</i>.  FOCS 2012.  <a href="https://arxiv.org/abs/1111.3097">arxiv</a>
+<br><br>
+</li>
+
+<li>
+(with Brad Shutters)  Tight bounds on the approximate self-assembly of discrete Sierpinski triangles.  <i>Theory of Computing Systems</i>, 2012.  <a href="https://arxiv.org/abs/1001.2888">arxiv</a>
+<br><br>
+</li>
+
+<li>
+(with Lance Fortnow and Elvira Mayordomo)  Proof that, if NP does not have measure zero in EXP, then there exist disjoint pairs of NP languages that cannot be separated in subexponential time.  <i>Theory of Computing Systems</i>, 2012.  <a href="https://arxiv.org/abs/0902.2674">arxiv</a>
+<br><br>
+</li>
+
+</body>
+</html>
